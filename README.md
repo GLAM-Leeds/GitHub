@@ -9,7 +9,7 @@ These pages contain the information on how to use GitHub with GLAM
 * [Access]()
 * [GitHub Teams]()
 * [GitHub Wikis]()
-* [Web pages]()
+* [Web pages](https://glam-leeds.github.io/GitHub/GitHubPages)
 * [Markdown]()
 
 ### Requirements
